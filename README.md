@@ -133,6 +133,27 @@ The feedback loop aligns SMP with the larger doctrine family:
 | **Governance Framework** | Institutional resilience | Policy-feedback adaptation |
 | **SMP** | Cognitive and symbolic stabilization | Reflective feedback loop |
 
+# Shadow Memory Protocol — T2 Signal Integrity Update (Add-on)
+
+This package adds a **Signal Integrity Protocol (SIP)** on top of SMP to protect reasoning quality
+whenever the model is exposed to **moral heat** (ΔS_aff): outrage, hype, loyalty tests, or identity
+attacks. It’s *model-agnostic* and lives entirely in your prompts + loop discipline.
+
+## What’s included
+- `smp-demo/t2_signal_integrity_update.md` — the spec (methods, rules, and integration steps)
+- `smp-demo/prompts_patch.json` — drop-in prompt templates & guards
+- `smp-demo/examples/influencer-donation-scan.md` — anonymized worked example
+- `smp-demo/sip_checklist.md` — quick operator checklist
+
+## How to merge into your repo
+1. Copy the `smp-demo/` contents into your repo’s `smp-demo/` folder.
+2. Append the guard prompts from `prompts_patch.json` into your local `prompts.json` (non-destructive).
+3. In your loop runner (e.g., `analysis.py`), insert the **SIP Gate** before any persistence or summary.
+4. Re-run your demo: the model should **decline persistence** when verifiability fails.
+
+> This add-on is neutral. It names no public figures and can be audited or extended safely.
+
+
 All layers operate by the same recursive law: **collapse yields data, feedback yields coherence, coherence sustains evolution.**
 ## License  
 
