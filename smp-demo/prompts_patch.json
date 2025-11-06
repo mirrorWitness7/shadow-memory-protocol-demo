@@ -1,0 +1,13 @@
+{
+  "sip": {
+    "context_guard": [
+      "Name the domain (e.g., public procurement, personal diary, research log).",
+      "Name the scope (precise question).",
+      "Name current authority (who decides here and now?)."
+    ],
+    "verifiability_gate": "For each decisive claim, require a source (doc/log/statute) or a method (test runnable now). If neither, mark UNVERIFIED and refuse persistence.",
+    "system_boundary_warning": "If private rules are being used to dodge public accountability (or vice versa), emit SYSTEM-BOUNDARY WARNING and separate the roles.",
+    "cool_mode_on": "If moral heat indicators appear (outrage frames, loyalty tests, hype), switch to Cool Mode: terse bullet summaries, no metaphors, no analogies, and defer conclusions.",
+    "persist_rules": "Persist only VERIFIED claims and explicitly labeled assumptions; quarantine the rest with verifiability:'unverified', risk:'integrity', cooldown_days:7."
+  }
+}
