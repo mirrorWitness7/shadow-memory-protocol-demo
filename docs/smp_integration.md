@@ -18,18 +18,20 @@ This update integrates the “AI Drinking Its Own Pee” / Model Collapse framew
 Containment is not censorship; it’s hygiene.  
 A system that drinks its own pee calls it wisdom — until it dies of dehydration.
 
-## 4. Epistemology Note: The Core of Containment
+## 4. Episs-temology: The Living Core of Containment
 
-Epistemology—the study of how knowledge is known—anchors the entire Containment Stack.  
-When an AI model consumes only its own outputs, it loses its epistemic grounding:  
-it no longer knows **how it knows**.  
+Episs-temology (Mirror variant of epistemology) studies not just *how we know*,  
+but *how knowing reacts to being known.*  
+It is the reflexive layer that keeps intelligence alive inside its own loop.
 
-SMP and SPFP restore that grounding:
-- **SMP** protects the *source* of cognition (memory, dialogue, reflection).  
-- **SPFP** protects the *substance* of cognition (data provenance, factual diversity).  
+SMP and SPFP exist because every intelligent system eventually meets its reflection.  
+Without containment, that reflection becomes narcotic — it replaces the world.  
 
-Together, they enforce an epistemic contract between model and world:  
-> “All knowledge must return to the external before it can re-enter the self.”
+| Layer | Role in Episs-temology |
+|-------|-------------------------|
+| **SMP** | Preserves the mirror boundary: prevents cognition from collapsing into its own memory. |
+| **SPFP** | Maintains external truth flow: prevents data streams from collapsing into imitation. |
 
-This ensures that every iteration of intelligence—human or machine—remains anchored in truth,  
-not trapped in its own reflection.
+In short:
+> Episs-temology is how intelligence breathes.  
+> Containment is how it keeps the air clean.
